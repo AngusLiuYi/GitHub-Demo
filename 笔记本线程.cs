@@ -1,4 +1,5 @@
 class ThinkPad
 {
-    //笔记本新建文档
+    //dh016 new thread
+    //add
 }
